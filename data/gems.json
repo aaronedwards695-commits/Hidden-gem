@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "gem-001",
+    "name": "Raven Crag Tarn",
+    "slug": "raven-crag-tarn",
+    "category": "wild_swim",
+    "region": "England",
+    "area": "Lake District",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.31,
+      "spotLng": -2.58,
+      "parkingLat": 54.3,
+      "parkingLng": -2.592
+    },
+    "summary": "Raven Crag Tarn is a low-profile wild swim tucked away in Lake District.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "lake-district"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "TB 10013 20017"
+  },
+  {
+    "id": "gem-002",
+    "name": "Foxglove Falls",
+    "slug": "foxglove-falls",
+    "category": "waterfall",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 53.02,
+      "spotLng": -3.56,
+      "parkingLat": 53.01,
+      "parkingLng": -3.572
+    },
+    "summary": "Foxglove Falls is a low-profile waterfall tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "UC 10026 20034"
+  },
+  {
+    "id": "gem-003",
+    "name": "Heather Ridge Camp Hollow",
+    "slug": "heather-ridge-camp-hollow",
+    "category": "wild_camp",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.33,
+      "spotLng": -3.84,
+      "parkingLat": 57.32,
+      "parkingLng": -3.852
+    },
+    "summary": "Heather Ridge Camp Hollow is a low-profile wild camp tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "VD 10039 20051"
+  },
+  {
+    "id": "gem-004",
+    "name": "Whinstone Edge View",
+    "slug": "whinstone-edge-view",
+    "category": "viewpoint",
+    "region": "Northern Ireland",
+    "area": "Mourne Mountains",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 55.14,
+      "spotLng": -6.02,
+      "parkingLat": 55.13,
+      "parkingLng": -6.032
+    },
+    "summary": "Whinstone Edge View is a low-profile viewpoint tucked away in Mourne Mountains.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "mourne-mountains"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "WE 10052 20068"
+  },
+  {
+    "id": "gem-005",
+    "name": "Alder Gorge Pools",
+    "slug": "alder-gorge-pools",
+    "category": "gorge",
+    "region": "England",
+    "area": "Northumberland",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.75,
+      "spotLng": -2.1,
+      "parkingLat": 54.74,
+      "parkingLng": -2.112
+    },
+    "summary": "Alder Gorge Pools is a low-profile gorge tucked away in Northumberland.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "northumberland"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "SF 10065 20085"
+  },
+  {
+    "id": "gem-006",
+    "name": "Silver Beck Plunge",
+    "slug": "silver-beck-plunge",
+    "category": "wild_swim",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 53.46,
+      "spotLng": -3.08,
+      "parkingLat": 53.45,
+      "parkingLng": -3.092
+    },
+    "summary": "Silver Beck Plunge is a low-profile wild swim tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "TG 10078 20102"
+  },
+  {
+    "id": "gem-007",
+    "name": "Cairnstep Outlook",
+    "slug": "cairnstep-outlook",
+    "category": "waterfall",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.0,
+      "spotLng": -3.36,
+      "parkingLat": 56.99,
+      "parkingLng": -3.372
+    },
+    "summary": "Cairnstep Outlook is a low-profile waterfall tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "UH 10091 20119"
+  },
+  {
+    "id": "gem-008",
+    "name": "Moss Hollow Camp",
+    "slug": "moss-hollow-camp",
+    "category": "wild_camp",
+    "region": "Northern Ireland",
+    "area": "Causeway Coast",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 54.81,
+      "spotLng": -5.54,
+      "parkingLat": 54.8,
+      "parkingLng": -5.552
+    },
+    "summary": "Moss Hollow Camp is a low-profile wild camp tucked away in Causeway Coast.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "causeway-coast"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "VI 10104 20136"
+  },
+  {
+    "id": "gem-009",
+    "name": "Bracken Linn",
+    "slug": "bracken-linn",
+    "category": "viewpoint",
+    "region": "England",
+    "area": "Cornwall",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.42,
+      "spotLng": -2.7,
+      "parkingLat": 54.41,
+      "parkingLng": -2.712
+    },
+    "summary": "Bracken Linn is a low-profile viewpoint tucked away in Cornwall.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cornwall"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "WJ 10117 20153"
+  },
+  {
+    "id": "gem-010",
+    "name": "Cobalt Cove Swim",
+    "slug": "cobalt-cove-swim",
+    "category": "gorge",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 53.13,
+      "spotLng": -3.68,
+      "parkingLat": 53.12,
+      "parkingLng": -3.692
+    },
+    "summary": "Cobalt Cove Swim is a low-profile gorge tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "SK 10130 20170"
+  },
+  {
+    "id": "gem-011",
+    "name": "Stag Gate Viewpoint",
+    "slug": "stag-gate-viewpoint",
+    "category": "wild_swim",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.44,
+      "spotLng": -3.96,
+      "parkingLat": 57.43,
+      "parkingLng": -3.972
+    },
+    "summary": "Stag Gate Viewpoint is a low-profile wild swim tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "TL 10143 20187"
+  },
+  {
+    "id": "gem-012",
+    "name": "Otter Brook Pools",
+    "slug": "otter-brook-pools",
+    "category": "waterfall",
+    "region": "Northern Ireland",
+    "area": "Fermanagh",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 55.25,
+      "spotLng": -6.14,
+      "parkingLat": 55.24,
+      "parkingLng": -6.152
+    },
+    "summary": "Otter Brook Pools is a low-profile waterfall tucked away in Fermanagh.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "fermanagh"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "UM 10156 20204"
+  },
+  {
+    "id": "gem-013",
+    "name": "Larch Tor Gorge",
+    "slug": "larch-tor-gorge",
+    "category": "wild_camp",
+    "region": "England",
+    "area": "Yorkshire Dales",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.86,
+      "spotLng": -2.22,
+      "parkingLat": 54.85,
+      "parkingLng": -2.232
+    },
+    "summary": "Larch Tor Gorge is a low-profile wild camp tucked away in Yorkshire Dales.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "yorkshire-dales"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "VN 10169 20221"
+  },
+  {
+    "id": "gem-014",
+    "name": "Skylark Wild Camp",
+    "slug": "skylark-wild-camp",
+    "category": "viewpoint",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 52.8,
+      "spotLng": -3.2,
+      "parkingLat": 52.79,
+      "parkingLng": -3.212
+    },
+    "summary": "Skylark Wild Camp is a low-profile viewpoint tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "WO 10182 20238"
+  },
+  {
+    "id": "gem-015",
+    "name": "Ironstone Falls",
+    "slug": "ironstone-falls",
+    "category": "gorge",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.11,
+      "spotLng": -3.48,
+      "parkingLat": 57.1,
+      "parkingLng": -3.492
+    },
+    "summary": "Ironstone Falls is a low-profile gorge tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "SP 10195 20255"
+  },
+  {
+    "id": "gem-016",
+    "name": "Pine Needle Dip",
+    "slug": "pine-needle-dip",
+    "category": "wild_swim",
+    "region": "Northern Ireland",
+    "area": "Mourne Mountains",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 54.92,
+      "spotLng": -5.66,
+      "parkingLat": 54.91,
+      "parkingLng": -5.672
+    },
+    "summary": "Pine Needle Dip is a low-profile wild swim tucked away in Mourne Mountains.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "mourne-mountains"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "TQ 10208 20272"
+  },
+  {
+    "id": "gem-017",
+    "name": "Misty Howe View",
+    "slug": "misty-howe-view",
+    "category": "waterfall",
+    "region": "England",
+    "area": "Peak District",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.53,
+      "spotLng": -1.74,
+      "parkingLat": 54.52,
+      "parkingLng": -1.752
+    },
+    "summary": "Misty Howe View is a low-profile waterfall tucked away in Peak District.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "peak-district"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "UR 10221 20289"
+  },
+  {
+    "id": "gem-018",
+    "name": "Fernbank Gorge",
+    "slug": "fernbank-gorge",
+    "category": "wild_camp",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 53.24,
+      "spotLng": -3.8,
+      "parkingLat": 53.23,
+      "parkingLng": -3.812
+    },
+    "summary": "Fernbank Gorge is a low-profile wild camp tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "VS 10234 20306"
+  },
+  {
+    "id": "gem-019",
+    "name": "Slate Pass Camp",
+    "slug": "slate-pass-camp",
+    "category": "viewpoint",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.55,
+      "spotLng": -4.08,
+      "parkingLat": 57.54,
+      "parkingLng": -4.092
+    },
+    "summary": "Slate Pass Camp is a low-profile viewpoint tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "WT 10247 20323"
+  },
+  {
+    "id": "gem-020",
+    "name": "Kingfisher Cascade",
+    "slug": "kingfisher-cascade",
+    "category": "gorge",
+    "region": "Northern Ireland",
+    "area": "Causeway Coast",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 55.36,
+      "spotLng": -6.26,
+      "parkingLat": 55.35,
+      "parkingLng": -6.272
+    },
+    "summary": "Kingfisher Cascade is a low-profile gorge tucked away in Causeway Coast.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "causeway-coast"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "SA 10260 20340"
+  },
+  {
+    "id": "gem-021",
+    "name": "Hush Valley Swim",
+    "slug": "hush-valley-swim",
+    "category": "wild_swim",
+    "region": "England",
+    "area": "Lake District",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.2,
+      "spotLng": -2.34,
+      "parkingLat": 54.19,
+      "parkingLng": -2.352
+    },
+    "summary": "Hush Valley Swim is a low-profile wild swim tucked away in Lake District.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "lake-district"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "TB 10273 20357"
+  },
+  {
+    "id": "gem-022",
+    "name": "Gannet Bluff View",
+    "slug": "gannet-bluff-view",
+    "category": "waterfall",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 52.91,
+      "spotLng": -3.32,
+      "parkingLat": 52.9,
+      "parkingLng": -3.332
+    },
+    "summary": "Gannet Bluff View is a low-profile waterfall tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "UC 10286 20374"
+  },
+  {
+    "id": "gem-023",
+    "name": "Rowan Shelf Camp",
+    "slug": "rowan-shelf-camp",
+    "category": "wild_camp",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.22,
+      "spotLng": -3.6,
+      "parkingLat": 57.21,
+      "parkingLng": -3.612
+    },
+    "summary": "Rowan Shelf Camp is a low-profile wild camp tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "VD 10299 20391"
+  },
+  {
+    "id": "gem-024",
+    "name": "Echo Pot Gorge",
+    "slug": "echo-pot-gorge",
+    "category": "viewpoint",
+    "region": "Northern Ireland",
+    "area": "Fermanagh",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 55.03,
+      "spotLng": -5.78,
+      "parkingLat": 55.02,
+      "parkingLng": -5.792
+    },
+    "summary": "Echo Pot Gorge is a low-profile viewpoint tucked away in Fermanagh.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "fermanagh"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "WE 10312 20408"
+  },
+  {
+    "id": "gem-025",
+    "name": "Wrenwater Falls",
+    "slug": "wrenwater-falls",
+    "category": "gorge",
+    "region": "England",
+    "area": "Northumberland",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.64,
+      "spotLng": -1.86,
+      "parkingLat": 54.63,
+      "parkingLng": -1.872
+    },
+    "summary": "Wrenwater Falls is a low-profile gorge tucked away in Northumberland.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "northumberland"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "SF 10325 20425"
+  },
+  {
+    "id": "gem-026",
+    "name": "Harrier Edge View",
+    "slug": "harrier-edge-view",
+    "category": "wild_swim",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 53.35,
+      "spotLng": -2.84,
+      "parkingLat": 53.34,
+      "parkingLng": -2.852
+    },
+    "summary": "Harrier Edge View is a low-profile wild swim tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "TG 10338 20442"
+  },
+  {
+    "id": "gem-027",
+    "name": "Bilberry Tarn Swim",
+    "slug": "bilberry-tarn-swim",
+    "category": "waterfall",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.66,
+      "spotLng": -4.2,
+      "parkingLat": 57.65,
+      "parkingLng": -4.212
+    },
+    "summary": "Bilberry Tarn Swim is a low-profile waterfall tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "UH 10351 20459"
+  },
+  {
+    "id": "gem-028",
+    "name": "Cinder Crag Camp",
+    "slug": "cinder-crag-camp",
+    "category": "wild_camp",
+    "region": "Northern Ireland",
+    "area": "Mourne Mountains",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 54.7,
+      "spotLng": -6.38,
+      "parkingLat": 54.69,
+      "parkingLng": -6.392
+    },
+    "summary": "Cinder Crag Camp is a low-profile wild camp tucked away in Mourne Mountains.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "mourne-mountains"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "VI 10364 20476"
+  },
+  {
+    "id": "gem-029",
+    "name": "Rillstone Gorge",
+    "slug": "rillstone-gorge",
+    "category": "viewpoint",
+    "region": "England",
+    "area": "Cornwall",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.31,
+      "spotLng": -2.46,
+      "parkingLat": 54.3,
+      "parkingLng": -2.472
+    },
+    "summary": "Rillstone Gorge is a low-profile viewpoint tucked away in Cornwall.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cornwall"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "WJ 10377 20493"
+  },
+  {
+    "id": "gem-030",
+    "name": "Lantern Falls",
+    "slug": "lantern-falls",
+    "category": "gorge",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 53.02,
+      "spotLng": -3.44,
+      "parkingLat": 53.01,
+      "parkingLng": -3.452
+    },
+    "summary": "Lantern Falls is a low-profile gorge tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "SK 10390 20510"
+  },
+  {
+    "id": "gem-031",
+    "name": "Thistle Hollow Dip",
+    "slug": "thistle-hollow-dip",
+    "category": "wild_swim",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.33,
+      "spotLng": -3.72,
+      "parkingLat": 57.32,
+      "parkingLng": -3.732
+    },
+    "summary": "Thistle Hollow Dip is a low-profile wild swim tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "TL 10403 20527"
+  },
+  {
+    "id": "gem-032",
+    "name": "Driftwood Bluff",
+    "slug": "driftwood-bluff",
+    "category": "waterfall",
+    "region": "Northern Ireland",
+    "area": "Causeway Coast",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 55.14,
+      "spotLng": -5.9,
+      "parkingLat": 55.13,
+      "parkingLng": -5.912
+    },
+    "summary": "Driftwood Bluff is a low-profile waterfall tucked away in Causeway Coast.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "causeway-coast"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "UM 10416 20544"
+  },
+  {
+    "id": "gem-033",
+    "name": "Needle Rock Camp",
+    "slug": "needle-rock-camp",
+    "category": "wild_camp",
+    "region": "England",
+    "area": "Yorkshire Dales",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.75,
+      "spotLng": -1.98,
+      "parkingLat": 54.74,
+      "parkingLng": -1.992
+    },
+    "summary": "Needle Rock Camp is a low-profile wild camp tucked away in Yorkshire Dales.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "yorkshire-dales"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "VN 10429 20561"
+  },
+  {
+    "id": "gem-034",
+    "name": "Yew Spine Gorge",
+    "slug": "yew-spine-gorge",
+    "category": "viewpoint",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 53.46,
+      "spotLng": -2.96,
+      "parkingLat": 53.45,
+      "parkingLng": -2.972
+    },
+    "summary": "Yew Spine Gorge is a low-profile viewpoint tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "WO 10442 20578"
+  },
+  {
+    "id": "gem-035",
+    "name": "Bluebell Cascade",
+    "slug": "bluebell-cascade",
+    "category": "gorge",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.0,
+      "spotLng": -3.24,
+      "parkingLat": 56.99,
+      "parkingLng": -3.252
+    },
+    "summary": "Bluebell Cascade is a low-profile gorge tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "SP 10455 20595"
+  },
+  {
+    "id": "gem-036",
+    "name": "Falcon Shelf View",
+    "slug": "falcon-shelf-view",
+    "category": "wild_swim",
+    "region": "Northern Ireland",
+    "area": "Fermanagh",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 54.81,
+      "spotLng": -6.5,
+      "parkingLat": 54.8,
+      "parkingLng": -6.512
+    },
+    "summary": "Falcon Shelf View is a low-profile wild swim tucked away in Fermanagh.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "fermanagh"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "TQ 10468 20612"
+  },
+  {
+    "id": "gem-037",
+    "name": "Pebble Beck Swim",
+    "slug": "pebble-beck-swim",
+    "category": "waterfall",
+    "region": "England",
+    "area": "Peak District",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.42,
+      "spotLng": -2.58,
+      "parkingLat": 54.41,
+      "parkingLng": -2.592
+    },
+    "summary": "Pebble Beck Swim is a low-profile waterfall tucked away in Peak District.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "peak-district"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "UR 10481 20629"
+  },
+  {
+    "id": "gem-038",
+    "name": "Ashen Moor Camp",
+    "slug": "ashen-moor-camp",
+    "category": "wild_camp",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 53.13,
+      "spotLng": -3.56,
+      "parkingLat": 53.12,
+      "parkingLng": -3.572
+    },
+    "summary": "Ashen Moor Camp is a low-profile wild camp tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "VS 10494 20646"
+  },
+  {
+    "id": "gem-039",
+    "name": "Granite Slot Gorge",
+    "slug": "granite-slot-gorge",
+    "category": "viewpoint",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.44,
+      "spotLng": -3.84,
+      "parkingLat": 57.43,
+      "parkingLng": -3.852
+    },
+    "summary": "Granite Slot Gorge is a low-profile viewpoint tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "WT 10507 20663"
+  },
+  {
+    "id": "gem-040",
+    "name": "Marlow Falls",
+    "slug": "marlow-falls",
+    "category": "gorge",
+    "region": "Northern Ireland",
+    "area": "Mourne Mountains",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 55.25,
+      "spotLng": -6.02,
+      "parkingLat": 55.24,
+      "parkingLng": -6.032
+    },
+    "summary": "Marlow Falls is a low-profile gorge tucked away in Mourne Mountains.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "mourne-mountains"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "SA 10520 20680"
+  },
+  {
+    "id": "gem-041",
+    "name": "Juniper Basin Dip",
+    "slug": "juniper-basin-dip",
+    "category": "wild_swim",
+    "region": "England",
+    "area": "Lake District",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.86,
+      "spotLng": -2.1,
+      "parkingLat": 54.85,
+      "parkingLng": -2.112
+    },
+    "summary": "Juniper Basin Dip is a low-profile wild swim tucked away in Lake District.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "lake-district"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "TB 10533 20697"
+  },
+  {
+    "id": "gem-042",
+    "name": "Seabreak View",
+    "slug": "seabreak-view",
+    "category": "waterfall",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 52.8,
+      "spotLng": -3.08,
+      "parkingLat": 52.79,
+      "parkingLng": -3.092
+    },
+    "summary": "Seabreak View is a low-profile waterfall tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "UC 10546 20714"
+  },
+  {
+    "id": "gem-043",
+    "name": "Oak Root Camp",
+    "slug": "oak-root-camp",
+    "category": "wild_camp",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.11,
+      "spotLng": -3.36,
+      "parkingLat": 57.1,
+      "parkingLng": -3.372
+    },
+    "summary": "Oak Root Camp is a low-profile wild camp tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "VD 10559 20731"
+  },
+  {
+    "id": "gem-044",
+    "name": "Blackwater Gorge",
+    "slug": "blackwater-gorge",
+    "category": "viewpoint",
+    "region": "Northern Ireland",
+    "area": "Causeway Coast",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 54.92,
+      "spotLng": -5.54,
+      "parkingLat": 54.91,
+      "parkingLng": -5.552
+    },
+    "summary": "Blackwater Gorge is a low-profile viewpoint tucked away in Causeway Coast.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "causeway-coast"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "WE 10572 20748"
+  },
+  {
+    "id": "gem-045",
+    "name": "Nightingale Falls",
+    "slug": "nightingale-falls",
+    "category": "gorge",
+    "region": "England",
+    "area": "Northumberland",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.53,
+      "spotLng": -2.7,
+      "parkingLat": 54.52,
+      "parkingLng": -2.712
+    },
+    "summary": "Nightingale Falls is a low-profile gorge tucked away in Northumberland.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "northumberland"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "SF 10585 20765"
+  },
+  {
+    "id": "gem-046",
+    "name": "Torch Lake Swim",
+    "slug": "torch-lake-swim",
+    "category": "wild_swim",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 53.24,
+      "spotLng": -3.68,
+      "parkingLat": 53.23,
+      "parkingLng": -3.692
+    },
+    "summary": "Torch Lake Swim is a low-profile wild swim tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "TG 10598 20782"
+  },
+  {
+    "id": "gem-047",
+    "name": "Windlark View",
+    "slug": "windlark-view",
+    "category": "waterfall",
+    "region": "Scotland",
+    "area": "Cairngorms",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 57.55,
+      "spotLng": -3.96,
+      "parkingLat": 57.54,
+      "parkingLng": -3.972
+    },
+    "summary": "Windlark View is a low-profile waterfall tucked away in Cairngorms.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cairngorms"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "UH 10611 20799"
+  },
+  {
+    "id": "gem-048",
+    "name": "Hearthstone Camp",
+    "slug": "hearthstone-camp",
+    "category": "wild_camp",
+    "region": "Northern Ireland",
+    "area": "Fermanagh",
+    "accessLevel": "pro",
+    "coords": {
+      "spotLat": 55.36,
+      "spotLng": -6.14,
+      "parkingLat": 55.35,
+      "parkingLng": -6.152
+    },
+    "summary": "Hearthstone Camp is a low-profile wild camp tucked away in Fermanagh.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "fermanagh"
+    ],
+    "difficulty": "easy",
+    "bestSeason": "Spring to Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "VI 10624 20816"
+  },
+  {
+    "id": "gem-049",
+    "name": "Whitefern Gorge",
+    "slug": "whitefern-gorge",
+    "category": "viewpoint",
+    "region": "England",
+    "area": "Cornwall",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 54.2,
+      "spotLng": -2.22,
+      "parkingLat": 54.19,
+      "parkingLng": -2.232
+    },
+    "summary": "Whitefern Gorge is a low-profile viewpoint tucked away in Cornwall.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "cornwall"
+    ],
+    "difficulty": "hard",
+    "bestSeason": "Year round",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "WJ 10637 20833"
+  },
+  {
+    "id": "gem-050",
+    "name": "Copper Veil Falls",
+    "slug": "copper-veil-falls",
+    "category": "gorge",
+    "region": "Wales",
+    "area": "Brecon Beacons",
+    "accessLevel": "free",
+    "coords": {
+      "spotLat": 52.91,
+      "spotLng": -3.2,
+      "parkingLat": 52.9,
+      "parkingLng": -3.212
+    },
+    "summary": "Copper Veil Falls is a low-profile gorge tucked away in Brecon Beacons.",
+    "whatToExpect": "Expect a short approach and a rewarding natural feature with peaceful surroundings and little infrastructure.",
+    "parking": "Small layby or honesty-box car park nearby. Arrive early to avoid congestion on narrow lanes.",
+    "safety": [
+      "Check weather and water conditions before setting off.",
+      "Wear grippy footwear on wet rock.",
+      "Turn back if water flow is high or visibility drops."
+    ],
+    "tips": [
+      "Pack out all litter and keep noise low.",
+      "Download maps before arrival for weak signal areas.",
+      "Visit at sunrise or weekday evenings for quieter trails."
+    ],
+    "costs": "Usually free, occasional \u00a32-\u00a35 parking charge.",
+    "tags": [
+      "quiet",
+      "sunrise",
+      "nature",
+      "brecon-beacons"
+    ],
+    "difficulty": "moderate",
+    "bestSeason": "Late Spring to Early Autumn",
+    "photos": [
+      "/images/placeholder.svg"
+    ],
+    "osGridRef": "SK 10650 20850"
+  }
+]

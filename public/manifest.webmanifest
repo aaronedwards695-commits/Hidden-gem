@@ -1,0 +1,17 @@
+{
+  "name": "TrailVault",
+  "short_name": "TrailVault",
+  "description": "Discover hidden UK gems and plan authentic outdoor escapes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#1f3d33",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
